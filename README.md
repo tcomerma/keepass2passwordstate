@@ -28,7 +28,7 @@ Usage
 	   Notes;		     Notes
 	   URL;              URL
 	   Password;         Password
-	   ExpiryDate;
+	   ExpiryDate;		 Expiration Date
 	   GenericField1;
 	   GenericField2;
 	   GenericField3;
@@ -40,6 +40,5 @@ Usage
 	   GenericField9;
 	   GenericField10
 	   
-TODO
-  * Import expiration dates, but I need to fix the date when it's year 2999 (passwordstate doesn't accept them)
+  
   	   
